@@ -1,3 +1,3 @@
 # LightsOut
 Jon-Michael Fields
-https://github.com/jfields4/LightsOut/edit/master
+https://github.com/jfields4/LightsOut
